@@ -1,5 +1,5 @@
-Module 10 Assignment - Dockerize and Deploy Express.js App Using Docker Compose with Nginx
-Overview
+# Module 10 Assignment - Dockerize and Deploy Express.js App Using Docker Compose with Nginx
+# Overview
 
 This project demonstrates how to containerize an Express.js application using Docker and deploy it alongside an Nginx container using Docker Compose.
 
@@ -54,7 +54,7 @@ Exposed the application on port 8080
 Pushed the Docker image to DockerHub
 Uploaded the project to GitHub
 
-#Screenshoot
+# Screenshoot
 App running:<img width="1692" height="824" alt="Assignment10_localhost" src="https://github.com/user-attachments/assets/7a33216d-356f-48e0-aa0e-776f099bb147" />
 Docker Image on DockerHub: <img width="1844" height="866" alt="Assigment10_DockerHub" src="https://github.com/user-attachments/assets/afee4b53-4b38-4dc4-b252-52c5ff3180c2" />
 Docker Push Success: <img width="1204" height="1173" alt="DockerPushCommand" src="https://github.com/user-attachments/assets/3d960217-2546-4265-870f-32783a777fac" />
